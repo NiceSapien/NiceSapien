@@ -9,4 +9,4 @@
 - 👯 I’m looking to collaborate on Sketchware Pro
 - 🤔 I’m looking for help with [UpdateGoGo](https://updategogo.classicwing.ml/ "UpdateGoGo site")
 - 💬 Ask me about Sketchware or Web development
-- 📫 How to reach me: [Discord](https://discord.gg/Th9FP25TsK), [Reddit](https://www.reddit.com/user/NiceSapien/), [Twitter](https://twitter.com/nicesapien), [YouTube](https://youtube.com/NiceSapien)
+- 📫 How to reach me: [Discord](https://discord.gg/Th9FP25TsK), [Twitter](https://twitter.com/nicesapien), [YouTube](https://youtube.com/NiceSapien)
