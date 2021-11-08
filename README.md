@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [JashanTheCool](https://jashan.rf.gd/ "JashanTheCool site")
+- 🔭 I’m currently working on [JashanTheCool](https://jashan.is-great.net/ "JashanTheCool site")
 - 🌱 I’m currently learning TypeScript and Java
 - 👯 I’m looking to collaborate on Sketchware Pro
 - 🤔 I’m looking for help with [UpdateGoGo](https://updategogo.classicwing.ml/ "UpdateGoGo site")
