@@ -9,4 +9,4 @@
 - 👯 I’m looking to collaborate on Potato
 - 🤔 I’m looking for help with [UpdateGoGo](https://updatify.netlify.app/ "UpdateGoGo site")
 - 💬 Ask me about Sketchware or Web development
-- 📫 How to reach me: https://linktr.ee/NiceSapien
+- 📫 How to reach me: https://instabio.cc/NiceSapien
