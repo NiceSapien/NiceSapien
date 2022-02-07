@@ -10,7 +10,6 @@
 I mostly develop in these languages
 - HTML
 - JavaScript
-- Java
 - CSS
 
 ### <div align="center">Projects I'm working on</div>
