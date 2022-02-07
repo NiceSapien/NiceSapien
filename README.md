@@ -1,12 +1,21 @@
-### Hi there 👋
-#### I'm NiceSapien
+<div align="center">
+<img width="128px" src="ff8e1dbb439185b68a3c73ad4408c17c (1).png" alt="Nice" />
 
+## Hi there 👋
+I'm NiceSapien, usually called as Nice. I'm a YouTuber and a hobby developer developing random stuff.
 
+</div>
 
+### <div align="center">Programming languages</div>
+I mostly develop in these languages
+- HTML
+- JavaScript
+- Java
+- CSS
 
-- 🔭 I’m currently working on [Typewriter.js](https://typewriter.js.org/) and [TomorrowEarth](https://tomorrowearth.netlify.app/)
-- 🌱 I’m currently learning CSS Flexbox
-- 👯 I’m looking to collaborate on Acode
-- 🤔 I’m looking for help with [TomorrowEarth](https://tomorrowearth.netlify.app/ "TomorrowEarth site")
-- 💬 Ask me about Sketchware or Web development
-- 📫 How to reach me: https://linktr.ee/NiceSapien
+### <div align="center">Projects I'm working on</div>
+- [typewriter.js](https://github.com/nicesapien/typewriter.js) - Make beautiful typewriter animations.
+- [TomorrowEarth](https://tomorrowearth.netlify.app) - For a better Earth, for a better Tomorrow.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicesapien&layout=compact)
+![NiceSapien GitHub stats](https://github-readme-stats.vercel.app/api?username=nicesapien&show_icons=true)
