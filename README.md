@@ -6,7 +6,7 @@
 
 </div>
 
-### <div align="center">Programming languages</div>
+### <div align="center">Languages</div>
 I mostly develop in these languages
 - HTML
 - JavaScript
