@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm NiceSapien</h1>
-<h3 align="center">I'm NiceSapien, usually called as Nice. I'm a YouTuber and a hobby developer developing random stuff.</h3>
+<h3 align="center">I'm NiceSapien, usually called as Nice. I'm a YouTuber, and a hobby Android developer.</h3>
 
 <p align="left"> <a href="https://twitter.com/nicesapien" target="blank"><img src="https://img.shields.io/twitter/follow/nicesapien?logo=twitter&style=for-the-badge" alt="nicesapien" /></a> </p>
 
-- 🔭 I’m currently working on [typewriter.js](https://typewriter.js.org/)
+- 🔭 I’m currently working on [InventPass](https://inventpass.netlify.app/)
 
-- 🌱 I’m currently learning **ReactJS, GatsbyJS, TypeScript, and Flexbox**
+- 🌱 I’m currently learning **ReactJS, TypeScript, and Flexbox**
 
 - 👯 I’m looking to collaborate on **Acode**
 
-- 🤝 I’m looking for help with [UpdateGoGo](https://updatify.netlify.app/)
+- 🤝 I’m looking for help with [typewriter.js](https://typewriter.js.org/)
 
 - 👨‍💻 All of my projects are available at [https://NiceSapien.is-a.dev](https://NiceSapien.is-a.dev)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **nicesapien@gmail.com**
 
-- ⚡ Fun fact: **I'm a University student.**
+- ⚡ Fun fact: **I'm a Student.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
