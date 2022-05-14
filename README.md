@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm NiceSapien</h1>
-<h3 align="center">I'm NiceSapien, usually called as Nice. I'm a YouTuber, and a hobby Android developer.</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Hi%2C+my+name+is+NiceSapien;I+live+in+India;I+have+a+YouTube+channel)](https://git.io/typing-svg)
 
 <p align="left"> <a href="https://twitter.com/nicesapien" target="blank"><img src="https://img.shields.io/twitter/follow/nicesapien?logo=twitter&style=for-the-badge" alt="nicesapien" /></a> </p>
+
 
 - 🔭 I’m currently working on [InventPass](https://inventpass.netlify.app/)
 
