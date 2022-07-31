@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJS, TypeScript, and Flexbox**
 
-- 👯 I’m looking to collaborate on **Acode**
+- 👯 I’m looking to collaborate on **Sketchware Pro**
 
 - 🤝 I’m looking for help with [typewriter.js](https://typewriter.js.org/)
 
