@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [InventPass](https://inventpass.netlify.app/)
 
-- 🌱 I’m currently learning **ReactJS, TypeScript, and Flexbox**
+- 🌱 I’m currently learning **Vue.js**
 
 - 👯 I’m looking to collaborate on **Sketchware Pro**
 
