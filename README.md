@@ -5,21 +5,21 @@
 <p align="left"> <a href="https://twitter.com/nicesapien" target="blank"><img src="https://img.shields.io/twitter/follow/nicesapien?logo=twitter&style=for-the-badge" alt="nicesapien" /></a> </p>
 
 
-- 🔭 I’m currently working on [InventPass](https://inventpass.netlify.app/)
+- 🔭 I’m currently working on [Sketchware Pro](https://sketchware-pro.vercel.app/)
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning Material Design 3
 
 - 👯 I’m looking to collaborate on **Sketchware Pro**
 
 - 🤝 I’m looking for help with [typewriter.js](https://typewriter.js.org/)
 
-- 👨‍💻 All of my projects are available at [https://NiceSapien.is-a.dev](https://NiceSapien.is-a.dev)
+- 👨‍💻 All of my projects are available at [https://nicesapien.is-a.dev](https://NiceSapien.is-a.dev)
 
-- 📝 I write articles on [https://NiceSapien.blogspot.com](https://NiceSapien.blogspot.com)
+- 📝 I write articles on [https://nicesapien.blogspot.com](https://NiceSapien.blogspot.com)
 
 - 💬 Ask me about **JavaScript, HTML, and CSS**
 
-- 📫 How to reach me **nicesapien@gmail.com**
+- 📫 How to reach me **nicesapien@duck.com**
 
 - ⚡ Fun fact: **I'm a Student.**
 
