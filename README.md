@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/nicesapien" target="blank"><img src="https://img.shields.io/twitter/follow/nicesapien?logo=twitter&style=for-the-badge" alt="nicesapien" /></a> </p>
 
 
-- 🔭 I’m currently working on a [self-improvement app](https://youtu.be/dQw4w9WgXcQ?si=Famu2FuFx2FqDOmz)
+- 🔭 I’m currently working on [AurAchieve](https://github.com/NiceSapien/AurAchieve)
 
 - 🌱 I’m currently learning [Flutter](https://flutter.dev)
 
